@@ -1,4 +1,4 @@
-## The only source of knowledge is experience.
+The only source of knowledge is experience.
 <!--
 **GnafiY/GnafiY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
